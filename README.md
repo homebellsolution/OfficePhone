@@ -2,7 +2,7 @@
 [![pipeline status](https://gitlab.linphone.org/BC/public/linphone-android/badges/master/pipeline.svg)](https://gitlab.linphone.org/BC/public/linphone-android/commits/master) 
 [![weblate status](https://weblate.linphone.org/widget/linphone/linphone-android-6-0/status-badge.png)](https://weblate.linphone.org/engage/linphone/)
 
-LivePhone  is an open source softphone for voice and video over IP calling and instant messaging.
+OfficePhone  is an open source softphone for voice and video over IP calling and instant messaging.
 
 It is fully SIP-based, for all calling, presence and IM features.
 
@@ -18,7 +18,7 @@ You can also download APKs signed with our key from [our website](https://downlo
 
 Copyright © Belledonne Communications
 
-LivePhone  is dual licensed, and is available either :
+OfficePhone  is dual licensed, and is available either :
 
  - under a [GNU/GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html), for free (open source). Please make sure that you understand and agree with the terms  of this license before using it (see LICENSE file for details).
 
@@ -28,7 +28,7 @@ LivePhone  is dual licensed, and is available either :
 
 - Supported features and RFCs : https://www.linphone.org/linphone-softphone/#linphone-fonctionnalites
 
-- LivePhone  public wiki : https://wiki.linphone.org/xwiki/wiki/public/view/Linphone/
+- OfficePhone  public wiki : https://wiki.linphone.org/xwiki/wiki/public/view/Linphone/
 
 - Tutorials : https://gitlab.linphone.org/BC/public/tutorials/-/tree/master/android/kotlin
 

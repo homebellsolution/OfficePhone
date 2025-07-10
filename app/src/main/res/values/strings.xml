@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
 <!DOCTYPE resources [
-    <!ENTITY appName "MultiVox">
+    <!ENTITY appName "OfficePhone">
 ]>
 
 <resources>
@@ -117,7 +117,7 @@
     <string name="welcome_page_1_title">Crystal Clear Calls</string>
     <string name="welcome_page_1_message">Experience ultra-clear, high-definition voice calls anytime, anywhere.</string>
     <string name="welcome_page_2_title">Always Connected</string>
-    <string name="welcome_page_2_message">Never miss an important call. MultiVox keeps your account active with push notifications, even when the app is closed.</string>
+    <string name="welcome_page_2_message">Never miss an important call. OfficePhone keeps your account active with push notifications, even when the app is closed.</string>
     <string name="welcome_page_3_title">Private And Secure</string>
     <string name="welcome_page_3_message">Your calls are encrypted and your data stays safe — no sharing with third parties, ever.</string>
 
